@@ -1,0 +1,11 @@
+{
+  "name": "go-cd-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:evilrescuer/go-cd-practice.git",
+  "author": "Zhimao Lin <zhimao.lin@thoughtworks.com>",
+  "license": "MIT",
+  "scripts":  {
+    "test": " "
+  }
+}
